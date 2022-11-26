@@ -410,7 +410,7 @@ npm run ts-watch
 ```
 
 1. Lalu Buka Browser Chrome http://ip-vps-kalian:3000
-2. Pastikan Snarkjs Terbuka (Walaupun Error Abaikan Saja)
+2. Pastikan Snarkjs Terbuka (kalau Error Abaikan Saja)
 3. Lalu 2 Tab Tersebut Jika Sudah Jalan, Bisa Kalian Close Langsung Atau Kalian Bisa Menjalankan Tab Baru
 
 ## 11 . Implementing the react app
@@ -627,6 +627,7 @@ export default function App() {
 ## 12 . Deploy UI ke Repository Kalian
 
 ```
+cd
 cd 04-zkapp-browser-ui/ui/
 npm run deploy
 ```
